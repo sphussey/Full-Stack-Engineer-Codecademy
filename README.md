@@ -49,5 +49,3 @@ Each project in this repository has its own set of dependencies and installation
 
 Feel free to reach out if you have any questions or would like to connect:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [LinkedIn profile URL]
